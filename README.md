@@ -6,3 +6,5 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 
 - Though I hold Bachelor's degree in Hotel Management, I aspire to work as a programmer.<br/>
 - A MERN stack developer, equipped with a diverse and promising skill-set.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaKumarKeshri96&label=Profile%20views&color=0e75b6&style=flat" alt="KrishnaKumarKeshri96" /> </p>

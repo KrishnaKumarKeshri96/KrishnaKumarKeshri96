@@ -22,6 +22,11 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 
 </p>
 
+### 👉🏼 More about me?
+
+I'm a multipotentialite who enjoys binge watching.
+You can find my work on my <a href="https://portfolio-nine-khaki.vercel.app/">Portfolio</a>.
+
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>

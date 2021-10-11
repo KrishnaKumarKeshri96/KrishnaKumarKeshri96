@@ -9,6 +9,12 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaKumarKeshri96&label=Profile%20views&color=0e75b6&style=flat" alt="KrishnaKumarKeshri96" /> </p>
 
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+
+- ⚡ Fun fact **I ❤️ Trading**
+
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>

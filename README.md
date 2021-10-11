@@ -15,6 +15,13 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 
 - ⚡ Fun fact **I ❤️ Trading**
 
+<h2 align="left">☕ Let's Connect</h2>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krishna-kumar-keshri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-keshri" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+</p>
+
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>

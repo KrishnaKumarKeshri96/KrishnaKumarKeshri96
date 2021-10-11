@@ -46,15 +46,15 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 ### ⚙️ &nbsp;GitHub Analytics
 
  <div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaKumarKeshri96&show_icons=true&locale=en&layout=compact&theme=radical" alt="kamal" width="380" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaKumarKeshri96&show_icons=true&locale=en&layout=compact&theme=radical" alt="krishna" width="380" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=KrishnaKumarKeshri96&show_icons=true&locale=en&theme=tokyonight" alt="kamal" width="380" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=KrishnaKumarKeshri96&show_icons=true&locale=en&theme=tokyonight" alt="krishna" width="380" /></p>
 </div>
 
 <br/><br/><br/><br/>
 
 <br/><br/><br/><br/>
-<a href="https://github.com/KrishnaKumarKeshri96/github-readme-activity-graph"><img alt="Kamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/KrishnaKumarKeshri96/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/><br/>
 

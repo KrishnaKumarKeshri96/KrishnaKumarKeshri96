@@ -24,8 +24,7 @@ I am Krishna from Arrah, Bihar. Skilled in Full Stack Development, MERN, Javascr
 
 ### 👉🏼 More about me?
 
-I'm a multipotentialite who enjoys binge watching.
-You can find my work on my:
+<h1>I'm a multipotentialite who enjoys binge watching.</h1>
 
 ## 🔗 Links
 
@@ -43,3 +42,20 @@ You can find my work on my:
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+ <div >
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaKumarKeshri96&show_icons=true&locale=en&layout=compact&theme=radical" alt="kamal" width="380" /></p>
+
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=KrishnaKumarKeshri96&show_icons=true&locale=en&theme=tokyonight" alt="kamal" width="380" /></p>
+</div>
+
+<br/><br/><br/><br/>
+
+<br/><br/><br/><br/>
+<a href="https://github.com/KrishnaKumarKeshri96/github-readme-activity-graph"><img alt="Kamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/><br/>
+
+<h1></h1>
